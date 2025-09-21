@@ -1,0 +1,80 @@
+2025-09-21 08:34:36,585 - INFO - Starting ETL for CA from data\CAvideos.csv
+2025-09-21 08:34:37,541 - ERROR - Error in ETL for CA: "['category'] not in index"
+2025-09-21 08:34:37,557 - INFO - Starting ETL for DE from data\DEvideos.csv
+2025-09-21 08:34:38,587 - ERROR - Error in ETL for DE: "['category'] not in index"
+2025-09-21 08:34:38,609 - INFO - Starting ETL for FR from data\FRvideos.csv
+2025-09-21 08:34:39,404 - ERROR - Error in ETL for FR: "['category'] not in index"
+2025-09-21 08:34:39,417 - INFO - Starting ETL for GB from data\GBvideos.csv
+2025-09-21 08:34:39,943 - ERROR - Error in ETL for GB: "['category'] not in index"
+2025-09-21 08:34:39,946 - INFO - Starting ETL for IN from data\INvideos.csv
+2025-09-21 08:34:40,752 - ERROR - Error in ETL for IN: "['category'] not in index"
+2025-09-21 08:34:40,761 - INFO - Starting ETL for JP from data\JPvideos.csv
+2025-09-21 08:34:41,342 - ERROR - Error in ETL for JP: "['category'] not in index"
+2025-09-21 08:34:41,349 - INFO - Starting ETL for KR from data\KRvideos.csv
+2025-09-21 08:34:42,090 - ERROR - Error in ETL for KR: "['category'] not in index"
+2025-09-21 08:34:42,097 - INFO - Starting ETL for MX from data\MXvideos.csv
+2025-09-21 08:34:42,821 - ERROR - Error in ETL for MX: "['category'] not in index"
+2025-09-21 08:34:42,833 - INFO - Starting ETL for RU from data\RUvideos.csv
+2025-09-21 08:34:44,370 - ERROR - Error in ETL for RU: "['category'] not in index"
+2025-09-21 08:34:44,391 - INFO - Starting ETL for US from data\USvideos.csv
+2025-09-21 08:34:44,969 - ERROR - Error in ETL for US: "['category'] not in index"
+2025-09-21 08:40:38,256 - INFO - Starting ETL for CA from data\CAvideos.csv
+2025-09-21 08:40:39,402 - ERROR - Error in ETL for CA: You are trying to merge on datetime64[ns] and object columns for key 'trending_date'. If you wish to proceed you should use pd.concat
+2025-09-21 08:40:39,419 - INFO - Starting ETL for DE from data\DEvideos.csv
+2025-09-21 08:40:40,618 - ERROR - Error in ETL for DE: You are trying to merge on datetime64[ns] and object columns for key 'trending_date'. If you wish to proceed you should use pd.concat
+2025-09-21 08:40:40,637 - INFO - Starting ETL for FR from data\FRvideos.csv
+2025-09-21 08:40:41,731 - ERROR - Error in ETL for FR: You are trying to merge on datetime64[ns] and object columns for key 'trending_date'. If you wish to proceed you should use pd.concat
+2025-09-21 08:40:41,748 - INFO - Starting ETL for GB from data\GBvideos.csv
+2025-09-21 08:40:42,460 - ERROR - Error in ETL for GB: You are trying to merge on datetime64[ns] and object columns for key 'trending_date'. If you wish to proceed you should use pd.concat
+2025-09-21 08:40:42,465 - INFO - Starting ETL for IN from data\INvideos.csv
+2025-09-21 08:40:43,346 - ERROR - Error in ETL for IN: You are trying to merge on datetime64[ns] and object columns for key 'trending_date'. If you wish to proceed you should use pd.concat
+2025-09-21 08:40:43,356 - INFO - Starting ETL for JP from data\JPvideos.csv
+2025-09-21 08:40:44,009 - ERROR - Error in ETL for JP: You are trying to merge on datetime64[ns] and object columns for key 'trending_date'. If you wish to proceed you should use pd.concat
+2025-09-21 08:40:44,018 - INFO - Starting ETL for KR from data\KRvideos.csv
+2025-09-21 08:40:44,838 - ERROR - Error in ETL for KR: You are trying to merge on datetime64[ns] and object columns for key 'trending_date'. If you wish to proceed you should use pd.concat
+2025-09-21 08:40:44,847 - INFO - Starting ETL for MX from data\MXvideos.csv
+2025-09-21 08:40:45,677 - ERROR - Error in ETL for MX: You are trying to merge on datetime64[ns] and object columns for key 'trending_date'. If you wish to proceed you should use pd.concat
+2025-09-21 08:40:45,691 - INFO - Starting ETL for RU from data\RUvideos.csv
+2025-09-21 08:40:47,355 - ERROR - Error in ETL for RU: You are trying to merge on datetime64[ns] and object columns for key 'trending_date'. If you wish to proceed you should use pd.concat
+2025-09-21 08:40:47,379 - INFO - Starting ETL for US from data\USvideos.csv
+2025-09-21 08:40:48,101 - ERROR - Error in ETL for US: You are trying to merge on datetime64[ns] and object columns for key 'trending_date'. If you wish to proceed you should use pd.concat
+2025-09-21 08:42:29,756 - INFO - Starting ETL for CA from data\CAvideos.csv
+2025-09-21 08:42:30,842 - ERROR - Error in ETL for CA: You are trying to merge on datetime64[ns] and object columns for key 'trending_date'. If you wish to proceed you should use pd.concat
+2025-09-21 08:42:30,861 - INFO - Starting ETL for DE from data\DEvideos.csv
+2025-09-21 08:42:31,901 - ERROR - Error in ETL for DE: You are trying to merge on datetime64[ns] and object columns for key 'trending_date'. If you wish to proceed you should use pd.concat
+2025-09-21 08:42:31,920 - INFO - Starting ETL for FR from data\FRvideos.csv
+2025-09-21 08:42:32,918 - ERROR - Error in ETL for FR: You are trying to merge on datetime64[ns] and object columns for key 'trending_date'. If you wish to proceed you should use pd.concat
+2025-09-21 08:42:32,940 - INFO - Starting ETL for GB from data\GBvideos.csv
+2025-09-21 08:42:33,697 - ERROR - Error in ETL for GB: You are trying to merge on datetime64[ns] and object columns for key 'trending_date'. If you wish to proceed you should use pd.concat
+2025-09-21 08:42:33,703 - INFO - Starting ETL for IN from data\INvideos.csv
+2025-09-21 08:42:34,645 - ERROR - Error in ETL for IN: You are trying to merge on datetime64[ns] and object columns for key 'trending_date'. If you wish to proceed you should use pd.concat
+2025-09-21 08:42:34,656 - INFO - Starting ETL for JP from data\JPvideos.csv
+2025-09-21 08:42:35,489 - ERROR - Error in ETL for JP: You are trying to merge on datetime64[ns] and object columns for key 'trending_date'. If you wish to proceed you should use pd.concat
+2025-09-21 08:42:35,496 - INFO - Starting ETL for KR from data\KRvideos.csv
+2025-09-21 08:42:36,606 - ERROR - Error in ETL for KR: You are trying to merge on datetime64[ns] and object columns for key 'trending_date'. If you wish to proceed you should use pd.concat
+2025-09-21 08:42:36,616 - INFO - Starting ETL for MX from data\MXvideos.csv
+2025-09-21 08:42:37,501 - ERROR - Error in ETL for MX: You are trying to merge on datetime64[ns] and object columns for key 'trending_date'. If you wish to proceed you should use pd.concat
+2025-09-21 08:42:37,516 - INFO - Starting ETL for RU from data\RUvideos.csv
+2025-09-21 08:42:39,373 - ERROR - Error in ETL for RU: You are trying to merge on datetime64[ns] and object columns for key 'trending_date'. If you wish to proceed you should use pd.concat
+2025-09-21 08:42:39,398 - INFO - Starting ETL for US from data\USvideos.csv
+2025-09-21 08:42:40,115 - ERROR - Error in ETL for US: You are trying to merge on datetime64[ns] and object columns for key 'trending_date'. If you wish to proceed you should use pd.concat
+2025-09-21 08:43:06,055 - INFO - Starting ETL for CA from data\CAvideos.csv
+2025-09-21 08:43:07,145 - ERROR - Error in ETL for CA: You are trying to merge on datetime64[ns] and object columns for key 'trending_date'. If you wish to proceed you should use pd.concat
+2025-09-21 08:43:07,161 - INFO - Starting ETL for DE from data\DEvideos.csv
+2025-09-21 08:43:08,228 - ERROR - Error in ETL for DE: You are trying to merge on datetime64[ns] and object columns for key 'trending_date'. If you wish to proceed you should use pd.concat
+2025-09-21 08:43:08,247 - INFO - Starting ETL for FR from data\FRvideos.csv
+2025-09-21 08:43:09,136 - ERROR - Error in ETL for FR: You are trying to merge on datetime64[ns] and object columns for key 'trending_date'. If you wish to proceed you should use pd.concat
+2025-09-21 08:43:09,151 - INFO - Starting ETL for GB from data\GBvideos.csv
+2025-09-21 08:43:09,836 - ERROR - Error in ETL for GB: You are trying to merge on datetime64[ns] and object columns for key 'trending_date'. If you wish to proceed you should use pd.concat
+2025-09-21 08:43:09,841 - INFO - Starting ETL for IN from data\INvideos.csv
+2025-09-21 08:43:10,678 - ERROR - Error in ETL for IN: You are trying to merge on datetime64[ns] and object columns for key 'trending_date'. If you wish to proceed you should use pd.concat
+2025-09-21 08:43:10,689 - INFO - Starting ETL for JP from data\JPvideos.csv
+2025-09-21 08:43:11,319 - ERROR - Error in ETL for JP: You are trying to merge on datetime64[ns] and object columns for key 'trending_date'. If you wish to proceed you should use pd.concat
+2025-09-21 08:43:11,326 - INFO - Starting ETL for KR from data\KRvideos.csv
+2025-09-21 08:43:12,139 - ERROR - Error in ETL for KR: You are trying to merge on datetime64[ns] and object columns for key 'trending_date'. If you wish to proceed you should use pd.concat
+2025-09-21 08:43:12,152 - INFO - Starting ETL for MX from data\MXvideos.csv
+2025-09-21 08:43:12,972 - ERROR - Error in ETL for MX: You are trying to merge on datetime64[ns] and object columns for key 'trending_date'. If you wish to proceed you should use pd.concat
+2025-09-21 08:43:12,989 - INFO - Starting ETL for RU from data\RUvideos.csv
+2025-09-21 08:43:14,620 - ERROR - Error in ETL for RU: You are trying to merge on datetime64[ns] and object columns for key 'trending_date'. If you wish to proceed you should use pd.concat
+2025-09-21 08:43:14,647 - INFO - Starting ETL for US from data\USvideos.csv
+2025-09-21 08:43:15,345 - ERROR - Error in ETL for US: You are trying to merge on datetime64[ns] and object columns for key 'trending_date'. If you wish to proceed you should use pd.concat

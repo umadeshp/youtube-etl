@@ -1,0 +1,59 @@
+# -----------------------------
+# Python
+# -----------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+env/
+ENV/
+venv.bak/
+env.bak/
+
+# -----------------------------
+# IDEs
+# -----------------------------
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# -----------------------------
+# Logs
+# -----------------------------
+*.log
+
+# -----------------------------
+# OS files
+# -----------------------------
+.DS_Store
+Thumbs.db
+
+# -----------------------------
+# Data files
+# -----------------------------
+# Ignore all CSV/JSON/TSV data by default
+*.csv
+*.tsv
+*.json
+
+# Keep sample data files for testing/demo
+!data/sample_*.csv
+!data/sample_*.json
+
+# -----------------------------
+# Config files
+# -----------------------------
+# Ignore config with sensitive info
+config.yaml
+secrets.yaml
+
+# -----------------------------
+# Distribution / packaging
+# -----------------------------
+build/
+dist/
+*.egg-info/
+*.egg
